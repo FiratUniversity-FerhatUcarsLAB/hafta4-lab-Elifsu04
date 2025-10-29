@@ -1,12 +1,12 @@
-
-
-
-
-
-
-
-
-
+/*
+ * Ad Soyad: Elif su KANSU
+ * Ogrenci No: 250541004
+ * Tarih: 28.10.2025
+ * Aciklama: Gorev 3 - Maaş Hesaplama
+ * 
+ * Bu program kullanicidan çalışan adı,soyadını;
+ * çalışma saatini,mesai saatini ve maaş bilgilerini alır ve maaş bordrosu çıktısını verir.
+ */
 
 import java.util.Scanner;
 
